@@ -13,7 +13,7 @@ fastapi
 uvicorn
 pgvector
 typer 
-phi.assistant
+assistant
 sqlalchemy
 pypdf
 psycopg[binary]
